@@ -1,5 +1,5 @@
 <h1 align="center">⭐Hello, I am Amr El-Desoky</h1>
-<h2 align="center">A passionate Mobile & Web Developer from Egypt</h3>
+<h2 align="center">A passionate Software engineer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=feryaeljustice&label=Profile%20views&color=0e75b6&style=flat" alt="feryaeljustice_profileviews" /> </p>
 
