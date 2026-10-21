@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=feryaeljustice&label=Profile%20views&color=0e75b6&style=flat" alt="feryaeljustice_profileviews" /> </p>
 
-- I'm a professional Mobile / Web developer for several years, including ethical hacking & linux knowledge.
+- I'm a professional software engineer for more than 9 years, including ethical hacking & linux knowledge.
 - 📫 How to reach me: **amraromoro@hotmail.com**
 - [Portfolio](https://amr-eldesoky.netlify.app/)
 
